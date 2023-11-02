@@ -1,5 +1,5 @@
 ## Hello there 👋
-We are computer engineering students working on a autonomus rover project.
+We are computer engineering students working on an autonomus rover project.
 <!--
 
 **Here are some ideas to get you started:**
