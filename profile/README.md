@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there 👋
+We are computer engineering students working on autonomus rover project  means that this github orgs will contain rover-relevant repos. 
 <!--
 
 **Here are some ideas to get you started:**
